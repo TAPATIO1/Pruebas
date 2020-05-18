@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "3426f23cca01b9e6657f5e6964da331588d12e29"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "AccesoDatos/1.0.0": {
+        "dependencies": {
+          "Microsoft.CodeCoverage": "16.6.1",
+          "NETStandard.Library": "2.0.3",
+          "OpenCover": "4.7.922"
+        },
+        "runtime": {
+          "AccesoDatos.dll": {}
+        }
+      },
+      "Microsoft.CodeCoverage/16.6.1": {},
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "OpenCover/4.7.922": {}
+    }
+  },
+  "libraries": {
+    "AccesoDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeCoverage/16.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nBYXDgAZCfjsOVzlhMB5olGvX4dTDWB/gWaYS/MhgXBcCz8XJuVGqkfK8LmwlBR/eeUPE9Q/NFZNwlJyMZf0vg==",
+      "path": "microsoft.codecoverage/16.6.1",
+      "hashPath": "microsoft.codecoverage.16.6.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "OpenCover/4.7.922": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Mwqq3r8cHj7qazNzWp1K9zmU15amC9bzMvFK83zM4D+ATSN/IOkJGZh6kEvXnTVJjl6LN6U/4QCdRHxulAISuA==",
+      "path": "opencover/4.7.922",
+      "hashPath": "opencover.4.7.922.nupkg.sha512"
+    }
+  }
+}

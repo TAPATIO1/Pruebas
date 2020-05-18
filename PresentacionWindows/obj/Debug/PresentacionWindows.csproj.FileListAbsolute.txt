@@ -1,0 +1,20 @@
+C:\Users\nestor.velez\Documents\IngSw2\PresentacionWindows\bin\Debug\PresentacionWindows.exe.config
+C:\Users\nestor.velez\Documents\IngSw2\PresentacionWindows\bin\Debug\PresentacionWindows.exe
+C:\Users\nestor.velez\Documents\IngSw2\PresentacionWindows\bin\Debug\PresentacionWindows.pdb
+C:\Users\nestor.velez\Documents\IngSw2\PresentacionWindows\obj\Debug\PresentacionWindows.csprojAssemblyReference.cache
+C:\Users\nestor.velez\Documents\IngSw2\PresentacionWindows\obj\Debug\PresentacionWindows.Properties.Resources.resources
+C:\Users\nestor.velez\Documents\IngSw2\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.GenerateResource.cache
+C:\Users\nestor.velez\Documents\IngSw2\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.CoreCompileInputs.cache
+C:\Users\nestor.velez\Documents\IngSw2\PresentacionWindows\obj\Debug\PresentacionWindows.exe
+C:\Users\nestor.velez\Documents\IngSw2\PresentacionWindows\obj\Debug\PresentacionWindows.pdb
+C:\juan\ing software\Nueva carpeta\PruebasUnitarias NEtStandard\PruebasUnitarias NEtStandard\PresentacionWindows\bin\Debug\PresentacionWindows.exe.config
+C:\juan\ing software\Nueva carpeta\PruebasUnitarias NEtStandard\PruebasUnitarias NEtStandard\PresentacionWindows\bin\Debug\PresentacionWindows.exe
+C:\juan\ing software\Nueva carpeta\PruebasUnitarias NEtStandard\PruebasUnitarias NEtStandard\PresentacionWindows\bin\Debug\PresentacionWindows.pdb
+C:\juan\ing software\Nueva carpeta\PruebasUnitarias NEtStandard\PruebasUnitarias NEtStandard\PresentacionWindows\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\juan\ing software\Nueva carpeta\PruebasUnitarias NEtStandard\PruebasUnitarias NEtStandard\PresentacionWindows\obj\Debug\PresentacionWindows.csprojAssemblyReference.cache
+C:\juan\ing software\Nueva carpeta\PruebasUnitarias NEtStandard\PruebasUnitarias NEtStandard\PresentacionWindows\obj\Debug\PresentacionWindows.Properties.Resources.resources
+C:\juan\ing software\Nueva carpeta\PruebasUnitarias NEtStandard\PruebasUnitarias NEtStandard\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.GenerateResource.cache
+C:\juan\ing software\Nueva carpeta\PruebasUnitarias NEtStandard\PruebasUnitarias NEtStandard\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.CoreCompileInputs.cache
+C:\juan\ing software\Nueva carpeta\PruebasUnitarias NEtStandard\PruebasUnitarias NEtStandard\PresentacionWindows\obj\Debug\PresentacionWindows.csproj.CopyComplete
+C:\juan\ing software\Nueva carpeta\PruebasUnitarias NEtStandard\PruebasUnitarias NEtStandard\PresentacionWindows\obj\Debug\PresentacionWindows.exe
+C:\juan\ing software\Nueva carpeta\PruebasUnitarias NEtStandard\PruebasUnitarias NEtStandard\PresentacionWindows\obj\Debug\PresentacionWindows.pdb
